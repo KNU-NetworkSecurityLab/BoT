@@ -8,6 +8,7 @@
 ## 세부사항
 ### [Android](Android/README.md)
 ### [Blockchain](BoT_BE/README.md)
+### [Arduino](Arduino/README.md)
 
 ## 추후 목표
 - 스마트팩토리뿐 아니라 스마트홈, 스마트시티까지 적용하는 방안 연구
